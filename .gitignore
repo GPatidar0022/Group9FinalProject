@@ -1,0 +1,10 @@
+# Ignore build artifacts
+bin/
+obj/
+.vs/
+*.suo
+
+# Ignore user-specific settings
+*.user
+*.userosscache
+*.sln.docstates
