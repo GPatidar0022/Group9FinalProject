@@ -9,7 +9,7 @@ namespace CatchTheStars
         public Vector2 Position { get; private set; }
         private Texture2D texture;
 
-        private float speed = 300f; // Adjusted player speed for smoother gameplay
+        private int speed = 3; // Adjusted player speed for smoother gameplay
 
         public Player(Texture2D texture, Vector2 initialPosition)
         {
@@ -24,17 +24,18 @@ namespace CatchTheStars
             // Move left
             if (keyboardState.IsKeyDown(Keys.Left) && Position.X > 0)
             {
-                Position = new Vector2(Position.X - speed * (float)gameTime.ElapsedGameTime.TotalSeconds, Position.Y);
+                Position = new Vector2(Position.X - speed, Position.Y);
             }
 
             // Move right
             if (keyboardState.IsKeyDown(Keys.Right) && Position.X + texture.Width < screenWidth)
             {
-                Position = new Vector2(Position.X + speed * (float)gameTime.ElapsedGameTime.TotalSeconds, Position.Y);
+                Position = new Vector2(Position.X + speed, Position.Y);
             }
 
-           
+
         }
+
 
         public void Draw(SpriteBatch spriteBatch)
         {

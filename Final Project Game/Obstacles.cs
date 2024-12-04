@@ -1,5 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using System;
 
 namespace CatchTheStars
 {
@@ -9,6 +10,7 @@ namespace CatchTheStars
         private Texture2D texture;
 
         private int screenHeight;
+        private static Random random = new Random();
 
         public Obstacle(Texture2D texture, Vector2 initialPosition, int screenHeight)
         {
@@ -34,7 +36,7 @@ namespace CatchTheStars
 
         public void ResetPosition()
         {
-            Position = new Vector2(RandomHelper.GetRandomX(), -100);
+            Position = new Vector2(random.Next(0, 800), -100); 
         }
 
         public Rectangle BoundingBox => new Rectangle((int)Position.X, (int)Position.Y, texture.Width, texture.Height);
