@@ -1,0 +1,61 @@
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.csproj.AssemblyReference.cache
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.AssemblyInfoInputs.cache
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.AssemblyInfo.cs
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.csproj.CoreCompileInputs.cache
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\Obstacles.xnb
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\Player.xnb
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\Star.xnb
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.exe
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.deps.json
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.runtimeconfig.json
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.pdb
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchThe.D4205C5A.Up2Date
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\refint\CatchTheStars.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.pdb
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.genruntimeconfig.cache
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\ref\CatchTheStars.dll
+C:\Users\patid\Desktop\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\gameFont.xnb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\gameFont.xnb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\gameSound.xnb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\Obstacles.xnb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\Player.xnb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\Content\Star.xnb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.exe
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.deps.json
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.runtimeconfig.json
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\CatchTheStars.pdb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.csproj.AssemblyReference.cache
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.AssemblyInfoInputs.cache
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.AssemblyInfo.cs
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.csproj.CoreCompileInputs.cache
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchThe.D4205C5A.Up2Date
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\refint\CatchTheStars.dll
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.pdb
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\CatchTheStars.genruntimeconfig.cache
+C:\Users\anshm\OneDrive\Desktop\Final Game\Final Game\Final Game\CatchTheStars\CatchTheStars\obj\Debug\net8.0-windows\ref\CatchTheStars.dll
