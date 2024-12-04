@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/collision-83248.wav</File>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/gameFont.spritefont</File>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/gameSound.wav</File>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/Obstacles.png</File>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/Player.png</File>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/shooting-star-2-104073.wav</File>
+    <File>C:/Users/harsh/OneDrive/Desktop/Final Game/Final Game/Final Game/Final Game/CatchTheStars/CatchTheStars/Content/Star.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
